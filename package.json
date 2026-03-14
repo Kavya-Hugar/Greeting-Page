@@ -1,0 +1,17 @@
+{
+  "name": "greeting-web-app",
+  "version": "1.0.0",
+  "description": "A modern greeting web application with animations",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "python server.py"
+  },
+  "keywords": ["greeting", "animation", "web", "app"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
